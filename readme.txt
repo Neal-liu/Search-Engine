@@ -11,7 +11,8 @@ Environment Setting :
 	4G RAM
 
 Execute the program :
-	java -jar SearchEngine.jar
+	java -jar SearchEngine.jar	(TF-IDF*)
+	java -jar SearchEngine-TF.jar	(TF)
 
 GitHub :
 	https://github.com/Neal-liu/Search-Engine
